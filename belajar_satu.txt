@@ -1,4 +1,5 @@
 Dashboard Prestasi Bidang
 - Kebutuhan: Ada akses data individu yang Verifikasi KP dan Pensiun, perlu tanya ke temen-temen. 
 - Selain itu, terkait waktu layanan dihitung dari usul masuk sampai selesai
+- dilakukan dengan kolaborasi
 - Selesai
