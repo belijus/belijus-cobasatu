@@ -1,0 +1,4 @@
+Pertemuan pertama membahas
+ - Pembuatan database
+ - Pemilihan bahasa pemrograman
+ - Selesai
