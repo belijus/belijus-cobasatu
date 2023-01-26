@@ -2,4 +2,5 @@ Pertemuan pertama membahas
  - Pembuatan database
      ERD, DFD, dan Normalisasi Tabel
  - Pemilihan bahasa pemrograman
+     bisa ini bisa itu
  - Selesai
